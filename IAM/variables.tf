@@ -1,4 +1,4 @@
 variable "project-devops-users" {
      type = list(string)
-     default = [ "harish", "harshil", "parthil", "neethi", "shipra", "derek","karthick"]
+     default = [ "user1", "user2", "user3", "user4", "user5", "user6","user7"]
 }
